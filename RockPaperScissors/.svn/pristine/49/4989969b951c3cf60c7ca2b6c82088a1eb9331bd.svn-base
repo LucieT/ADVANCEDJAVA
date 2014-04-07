@@ -1,0 +1,30 @@
+<h2>Methods run, sorted chronologically</h2><h3>&gt;&gt; means before, &lt;&lt; means after</h3><p/><br/><em>Default suite</em><p/><small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table border="1">
+<tr><th>Time</th><th>Delta (ms)</th><th>Suite<br>configuration</th><th>Test<br>configuration</th><th>Class<br>configuration</th><th>Groups<br>configuration</th><th>Method<br>configuration</th><th>Test<br>method</th><th>Thread</th><th>Instances</th></tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>0</td> <td>&nbsp;</td><td>&nbsp;</td><td title="&gt;&gt;RockPaperScissorsTest.beforeClass()[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">&gt;&gt;beforeClass</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>23</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.play(model.Player, model.Player)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">play</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>46</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.playRandom(model.Player, model.Player)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">playRandom</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>96</td> <td>&nbsp;</td><td>&nbsp;</td><td title="&lt;&lt;RockPaperScissorsTest.tearDownClass()[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">&lt;&lt;tearDownClass</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>53</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.testLostPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">testLostPlay</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>55</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.testLostPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">testLostPlay</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>57</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.testLostPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">testLostPlay</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>62</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.testTiePlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">testTiePlay</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>65</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.testTiePlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">testTiePlay</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>67</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.testTiePlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">testTiePlay</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>79</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.testWinPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">testWinPlay</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>82</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.testWinPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">testWinPlay</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+<tr bgcolor="9d6065">  <td>14/03/31 16:07:20</td>   <td>86</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RockPaperScissorsTest.testWinPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]">testWinPlay</td> 
+  <td>main@1783079124</td>   <td></td> </tr>
+</table>

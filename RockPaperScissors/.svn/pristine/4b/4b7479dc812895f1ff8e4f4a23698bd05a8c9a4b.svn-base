@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="151" started-at="2014-03-31T14:07:20Z" finished-at="2014-03-31T14:07:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="151" started-at="2014-03-31T14:07:20Z" finished-at="2014-03-31T14:07:20Z">
+      <class name="model.RockPaperScissorsTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="beforeClass" is-config="true" duration-ms="23" started-at="2014-03-31T16:07:20Z" finished-at="2014-03-31T16:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="play(model.Player, model.Player)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="play" duration-ms="13" started-at="2014-03-31T16:07:20Z" data-provider="test5" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[model.Player@3288df60]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[model.Player@3801318b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- play -->
+        <test-method status="PASS" signature="playRandom(model.Player, model.Player)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="playRandom" duration-ms="2" started-at="2014-03-31T16:07:20Z" data-provider="test4" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[model.Player@5c435a3a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[model.Player@49d8c528]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playRandom -->
+        <test-method status="PASS" signature="testLostPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="testLostPlay" duration-ms="2" started-at="2014-03-31T16:07:20Z" data-provider="test3" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ROCK]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PAPER]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLostPlay -->
+        <test-method status="PASS" signature="testLostPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="testLostPlay" duration-ms="1" started-at="2014-03-31T16:07:20Z" data-provider="test3" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PAPER]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SCISSORS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLostPlay -->
+        <test-method status="PASS" signature="testLostPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="testLostPlay" duration-ms="1" started-at="2014-03-31T16:07:20Z" data-provider="test3" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SCISSORS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ROCK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLostPlay -->
+        <test-method status="PASS" signature="testTiePlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="testTiePlay" duration-ms="2" started-at="2014-03-31T16:07:20Z" data-provider="test2" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ROCK]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ROCK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTiePlay -->
+        <test-method status="PASS" signature="testTiePlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="testTiePlay" duration-ms="1" started-at="2014-03-31T16:07:20Z" data-provider="test2" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PAPER]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PAPER]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTiePlay -->
+        <test-method status="PASS" signature="testTiePlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="testTiePlay" duration-ms="1" started-at="2014-03-31T16:07:20Z" data-provider="test2" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SCISSORS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SCISSORS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTiePlay -->
+        <test-method status="PASS" signature="testWinPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="testWinPlay" duration-ms="2" started-at="2014-03-31T16:07:20Z" data-provider="test" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ROCK]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SCISSORS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWinPlay -->
+        <test-method status="PASS" signature="testWinPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="testWinPlay" duration-ms="1" started-at="2014-03-31T16:07:20Z" data-provider="test" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PAPER]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ROCK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWinPlay -->
+        <test-method status="PASS" signature="testWinPlay(model.RSPEnum, model.RSPEnum)[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="testWinPlay" duration-ms="1" started-at="2014-03-31T16:07:20Z" data-provider="test" finished-at="2014-03-31T16:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SCISSORS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PAPER]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWinPlay -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:model.RockPaperScissorsTest@362f0d54]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2014-03-31T16:07:20Z" finished-at="2014-03-31T16:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- model.RockPaperScissorsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
